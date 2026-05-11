@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": "e963bfcc-5984-492f-b862-b9c401ef289e",
+      "email": "cjpabio042519@gmail.com",
+      "password": "$2b$10$YbP0SLi79GcrsruwuYmuiuXkc9PoJXqVfrfUAVGDpyBoHTAhZGQIG",
+      "createdAt": "2026-05-08T06:51:56.291Z"
+    }
+  ],
+  "tasks": [
+    {
+      "userId": "e963bfcc-5984-492f-b862-b9c401ef289e",
+      "title": "xgfg",
+      "dueDate": "2026-05-08",
+      "time": "",
+      "completed": false,
+      "createdAt": "2026-05-08T06:54:07.753Z",
+      "id": 1
+    },
+    {
+      "userId": "e963bfcc-5984-492f-b862-b9c401ef289e",
+      "title": "fdsfcv",
+      "dueDate": "2026-05-08",
+      "time": "",
+      "completed": false,
+      "createdAt": "2026-05-08T06:54:13.087Z",
+      "id": 2
+    }
+  ]
+}
